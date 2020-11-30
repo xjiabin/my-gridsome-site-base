@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Gridsome',
-  // siteUrl: '',
+  siteUrl: 'https://xjiabin.github.io/my-gridsome-site-base/',
   titleTemplate: '%s - Gridsome',
   plugins: [],
   templates: {

@@ -1,6 +1,7 @@
 {
   "name": "my-gridsome-site",
   "private": true,
+  "homepage": "https://xjiabin.github.io/my-gridsome-site-base/",
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
