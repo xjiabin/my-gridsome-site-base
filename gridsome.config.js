@@ -6,8 +6,9 @@
 
 module.exports = {
   siteName: 'Gridsome',
-  plugins: [],
+  // siteUrl: '',
   titleTemplate: '%s - Gridsome',
+  plugins: [],
   templates: {
     Post: '/posts/:id'
     // Post: [
